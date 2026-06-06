@@ -1,8 +1,5 @@
 <div align="center">
-  <div class="tenor-gif-embed" data-postid="1390165288419760505" data-share-method="host" data-aspect-ratio="1.79137" data-width="100%">
-    <a href="https://tenor.com/view/kurumi-gif-1390165288419760505">Kurumi GIF</a> from <a href="https://tenor.com/search/kurumi-gifs">Kurumi GIFs</a>
-  </div>
-  <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/bOQ8pD3yJvh.gif" width="100%" alt="Kurumi GIF"/>
 </div>
 
 # KurumiBOT
@@ -17,11 +14,11 @@ Plugin yang tersedia di `plugins/`:
   - Backup database dan kirim file ZIP.
 - `getowner` / `owner` / `creator`
   - Menampilkan kontak owner bot dalam bentuk vCard.
-- `menu` / `iyam`
+- `menu` / `help`
   - Menampilkan daftar perintah bot, statistik pengguna, dan status runtime.
 - `ping`
   - Mengecek respon bot.
-- `runtime` / `iyamuptime`
+- `runtime` / `uptime`
   - Menampilkan lama bot aktif.
 - `sticker` / `s`
   - Mengubah gambar atau video menjadi stiker.
@@ -131,8 +128,8 @@ Gunakan prefix `.` di depan perintah.
 
 - `.ping`
 - `.owner` atau `.creator`
-- `.iyam`
-- `.iyamruntime` atau `.iyamuptime`
+- `.menu`
+- `.runtime` atau `.uptime`
 - `.sticker` / `.s`
 - `.toimg`
 - `.topdf`
