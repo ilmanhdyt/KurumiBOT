@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://tenor.com/bOQ8pD3yJvh.gif" width="100%" alt="Kurumi GIF"/>
+  <img src="https://tenor.com/id/view/kurumi-gif-1390165288419760505" width="100%" alt="Kurumi GIF"/>
 </div>
 
 # KurumiBOT
