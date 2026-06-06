@@ -2,7 +2,7 @@
   <img src="assets/kurumi-gif-kurumi.gif" width="100%" alt="Kurumi GIF"/>
 </div>
 
-# KurumiBOT
+                        # KurumiBOT
 
 KurumiBOT adalah WhatsApp bot modern berbasis `baileys-pro` yang mendukung berbagai fitur utilitas dan media.
 
